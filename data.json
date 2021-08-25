@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "chadstewart/open-sauced-goals",
+    "stargazers_count": 0,
+    "open_issues_count": 3,
+    "forks_count": 0
+  },
+  {
     "full_name": "chadstewart/chadrs-interview-prep",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,8 +13,8 @@
   },
   {
     "full_name": "npm/cli",
-    "stargazers_count": 4760,
+    "stargazers_count": 4761,
     "open_issues_count": 301,
-    "forks_count": 1303
+    "forks_count": 1304
   }
 ]
