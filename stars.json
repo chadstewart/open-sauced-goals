@@ -1,27 +1,27 @@
 [
   {
     "full_name": "williamfiset/Algorithms",
-    "stargazers_count": 11043,
+    "stargazers_count": 11075,
     "open_issues_count": 69,
-    "forks_count": 2957
+    "forks_count": 2964
   },
   {
     "full_name": "careercup/CtCI-6th-Edition-JavaScript",
-    "stargazers_count": 2404,
+    "stargazers_count": 2405,
     "open_issues_count": 39,
-    "forks_count": 998
+    "forks_count": 1000
   },
   {
     "full_name": "npm/cli",
-    "stargazers_count": 4924,
-    "open_issues_count": 348,
-    "forks_count": 1360
+    "stargazers_count": 4952,
+    "open_issues_count": 351,
+    "forks_count": 1368
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 114863,
+    "stargazers_count": 114957,
     "open_issues_count": 131,
-    "forks_count": 21925
+    "forks_count": 21947
   },
   {
     "full_name": "rubymorillo/pocket-tech-writing-list",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "streamich/react-use",
-    "stargazers_count": 25762,
-    "open_issues_count": 403,
-    "forks_count": 1927
+    "stargazers_count": 25821,
+    "open_issues_count": 410,
+    "forks_count": 1938
   },
   {
     "full_name": "bdougie/awesome-black-developers",
@@ -43,63 +43,63 @@
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 86678,
-    "open_issues_count": 6,
-    "forks_count": 9166
+    "stargazers_count": 86899,
+    "open_issues_count": 5,
+    "forks_count": 9187
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 38538,
+    "stargazers_count": 38611,
     "open_issues_count": 63,
-    "forks_count": 5144
+    "forks_count": 5156
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 58542,
+    "stargazers_count": 58757,
     "open_issues_count": 47,
-    "forks_count": 7412
+    "forks_count": 7436
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 71276,
-    "open_issues_count": 31,
-    "forks_count": 7178
+    "stargazers_count": 71341,
+    "open_issues_count": 32,
+    "forks_count": 7195
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 163403,
-    "open_issues_count": 156,
-    "forks_count": 18532
+    "stargazers_count": 163843,
+    "open_issues_count": 179,
+    "forks_count": 18636
   },
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 5537,
+    "stargazers_count": 5584,
     "open_issues_count": 1,
-    "forks_count": 1775
+    "forks_count": 1792
   },
   {
     "full_name": "Olshansk/interview",
-    "stargazers_count": 14440,
+    "stargazers_count": 14460,
     "open_issues_count": 4,
-    "forks_count": 3277
+    "forks_count": 3281
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 59887,
+    "stargazers_count": 60044,
     "open_issues_count": 6,
-    "forks_count": 8311
+    "forks_count": 8337
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 43679,
-    "open_issues_count": 4,
-    "forks_count": 6380
+    "stargazers_count": 43742,
+    "open_issues_count": 5,
+    "forks_count": 6384
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 194451,
+    "stargazers_count": 194673,
     "open_issues_count": 42,
-    "forks_count": 52288
+    "forks_count": 52351
   },
   {
     "full_name": "devpato/tech-podcasts-list",
@@ -109,25 +109,25 @@
   },
   {
     "full_name": "jordanliu/made-in-jamaica",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 29020,
+    "stargazers_count": 29101,
     "open_issues_count": 7,
-    "forks_count": 2274
+    "forks_count": 2282
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 90649,
-    "open_issues_count": 7580,
-    "forks_count": 13368
+    "stargazers_count": 91042,
+    "open_issues_count": 7599,
+    "forks_count": 13409
   },
   {
     "full_name": "mattmakai/fullstackpython.com",
-    "stargazers_count": 2653,
+    "stargazers_count": 2654,
     "open_issues_count": 56,
     "forks_count": 604
   },
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "PurpleBooth/a-good-readme-template",
-    "stargazers_count": 264,
+    "stargazers_count": 265,
     "open_issues_count": 0,
-    "forks_count": 214
+    "forks_count": 215
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 4076,
+    "stargazers_count": 4107,
     "open_issues_count": 7,
-    "forks_count": 9863
+    "forks_count": 9942
   },
   {
     "full_name": "Virtual-Coffee/open-source",
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 494,
-    "open_issues_count": 32,
+    "stargazers_count": 495,
+    "open_issues_count": 27,
     "forks_count": 144
   },
   {
